@@ -1,0 +1,15 @@
+{
+  "name": "hrms-auto-punch",
+  "version": "1.0.0",
+  "description": "HRMS Punch In/Out Automation",
+  "main": "punch.js",
+  "scripts": {
+    "login": "node login.js",
+    "punch": "node punch.js",
+    "schedule": "node scheduler.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0",
+    "node-cron": "^3.0.3"
+  }
+}

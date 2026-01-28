@@ -1,0 +1,15 @@
+[2026-01-14T15:15:45.445Z] Opening browser for manual login...
+[2026-01-14T15:15:52.154Z] Please login manually. After login, CLOSE the browser.
+[2026-01-14T17:18:11.075Z] Punch automation started
+[2026-01-14T17:18:16.877Z] Punch switch not visible
+[2026-01-14T17:20:00.392Z] Punch automation started
+[2026-01-14T17:20:05.595Z] Punch switch not visible
+[2026-01-14T17:25:59.564Z] Punch process started
+[2026-01-14T17:26:04.327Z] Login page detected, performing login
+[2026-01-14T17:26:08.438Z] Login successful, redirected to dashboard
+[2026-01-14T17:26:08.458Z] Unknown punch state: 
+[2026-01-14T17:28:31.942Z] Punch process started
+[2026-01-14T17:28:36.624Z] Login required, logging in
+[2026-01-14T17:28:40.658Z] Login successful
+[2026-01-14T17:28:40.684Z] Punch state detected → value=0, aria-pressed=false
+[2026-01-14T17:28:42.369Z] Punch In successful
